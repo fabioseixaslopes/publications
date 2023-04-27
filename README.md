@@ -1,4 +1,4 @@
-## Curriculum vitæ and Scientific publications
+## Curriculum vitæ and scientific publications
 
 ```publications```
 
